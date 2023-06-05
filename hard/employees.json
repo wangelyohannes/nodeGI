@@ -1,0 +1,66 @@
+{
+    "employees": [
+      {
+        "employeeID": 1,
+        "name": "Levi Ackerman",
+        "salary": 50000,
+        "department": "Sales"
+      },
+      {
+        "employeeID": 2,
+        "name": "Naruto Uzumaki",
+        "salary": 60000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 3,
+        "name": "Monkey D. Luffy",
+        "salary": 55000,
+        "department": "HR"
+      },
+      {
+        "employeeID": 4,
+        "name": "Ichigo Kurosaki",
+        "salary": 58000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 5,
+        "name": "Eren Yeager",
+        "salary": 52000,
+        "department": "Operations"
+      },
+      {
+        "employeeID": 6,
+        "name": "Light Yagami",
+        "salary": 65000,
+        "department": "IT"
+      },
+      {
+        "employeeID": 7,
+        "name": "Saitama",
+        "salary": 70000,
+        "department": "Management"
+      },
+      {
+        "employeeID": 8,
+        "name": "Lelouch Lamperouge",
+        "salary": 75000,
+        "department": "R&D"
+      },
+      {
+        "employeeID": 9,
+        "name": "Gon Freecss",
+        "salary": 58000,
+        "department": "Sales"
+      },
+      {
+        "employeeID": 10,
+        "name": "Edward Elric",
+        "salary": 63000,
+        "department": "Finance"
+      }
+    ]
+  }
+
+  
